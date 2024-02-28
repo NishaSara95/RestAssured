@@ -4,11 +4,12 @@
 	<test thread-count="5" name="Test" preserve-order="true">
 		<classes>
 
-			
+
 			<class
 				name="com.restassured.practice.requestheaders.FiltersExample" />
-			
 
+			<class
+				name="com.restassured.practice.requestheaders.FiltersExample" />
 
 
 		</classes>
