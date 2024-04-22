@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.restassured.practice.requestheaders.SimplePojoTest">
+      <class name="com.rsapractice.basics.LibraryAPIUsingHashMapExcelDataDriven">
         <methods>
-          <include name="simplePojoExample"/>
-          <include name="BeforeClass"/>
+          <include name="addBookDeleteBook"/>
         </methods>
-      </class> <!-- com.restassured.practice.requestheaders.SimplePojoTest -->
+      </class> <!-- com.rsapractice.basics.LibraryAPIUsingHashMapExcelDataDriven -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

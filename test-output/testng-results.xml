@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-27T21:29:08 IST" name="Suite" finished-at="2024-02-27T21:29:11 IST" duration-ms="3426">
+  <suite started-at="2024-04-22T13:40:14 IST" name="Default suite" finished-at="2024-04-22T13:40:22 IST" duration-ms="7954">
     <groups>
     </groups>
-    <test started-at="2024-02-27T21:29:08 IST" name="Test" finished-at="2024-02-27T21:29:11 IST" duration-ms="3426">
-      <class name="com.restassured.practice.requestheaders.FiltersExample">
-        <test-method signature="filtersExampleInConsole()[pri:0, instance:com.restassured.practice.requestheaders.FiltersExample@5c80cf32]" started-at="2024-02-27T21:29:08 IST" name="filtersExampleInConsole" finished-at="2024-02-27T21:29:10 IST" duration-ms="2420" status="PASS">
+    <test started-at="2024-04-22T13:40:14 IST" name="Default test" finished-at="2024-04-22T13:40:22 IST" duration-ms="7954">
+      <class name="com.rsapractice.basics.LibraryAPIUsingHashMapExcelDataDriven">
+        <test-method signature="addBookDeleteBook()[pri:0, instance:com.rsapractice.basics.LibraryAPIUsingHashMapExcelDataDriven@210ab13f]" started-at="2024-04-22T13:40:14 IST" name="addBookDeleteBook" finished-at="2024-04-22T13:40:22 IST" duration-ms="7875" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- filtersExampleInConsole -->
-        <test-method signature="printLogsInFile()[pri:0, instance:com.restassured.practice.requestheaders.FiltersExample@5c80cf32]" started-at="2024-02-27T21:29:10 IST" name="printLogsInFile" finished-at="2024-02-27T21:29:11 IST" duration-ms="960" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- printLogsInFile -->
-      </class> <!-- com.restassured.practice.requestheaders.FiltersExample -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- addBookDeleteBook -->
+      </class> <!-- com.rsapractice.basics.LibraryAPIUsingHashMapExcelDataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
